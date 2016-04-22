@@ -2601,8 +2601,8 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.jpg");
-		background-position: top right;
+		background-image: url("../../images/header-pic2.jpg");
+		background-position: right;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
