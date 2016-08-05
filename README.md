@@ -1,3 +1,3 @@
 # Conor Devine
 
-[Live](http://www.conorjdevine.com)
+My personal site | [Live](http://www.conorjdevine.com)
